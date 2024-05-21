@@ -5,13 +5,13 @@
 ### Adding execute permission
 
 ```
-$ chmoh +X myscript.sh
+$ chmod +X myscript.sh
 ```
 
 ### Adding all permission
 
 ```
-$ chmoh 777 myscript.sh
+$ chmod 777 myscript.sh
 ```
 
 ### Run script
